@@ -1,0 +1,26 @@
+{
+  "date": "2018-05-18T12:15:20.555Z",
+  "linux": [
+    {
+      "category": "linux/amlogic_devkit_a113",
+      "imageUri": {
+        "upgrade": "ftp://ftp-customer.rokid-inc.com:9921/images/amlogic_a113_audio/amlogic_linux_audio_baba_m2_a113_dev/dev/422/rokid_upgrade_package-0.2.0_rc5-20180505-141702.img",
+        "flush": "ftp://ftp-customer.rokid-inc.com:9921/images/amlogic_a113_audio/amlogic_linux_audio_baba_m2_a113_dev/dev/422/aml_upgrade_package-0.2.0_rc5-20180505-141702.img"
+      },
+      "version": "0.2.0_rc5",
+      "datetime": "20180505",
+      "buildId": "141702"
+    },
+    {
+      "category": "linux/amlogic_devkit_a113",
+      "imageUri": {
+        "upgrade": "ftp://ftp-customer.rokid-inc.com:9921/images/amlogic_a113_audio/amlogic_linux_audio_baba_m2_a113_dev/dev/458/rokid_upgrade_package-0.2.0_rc5-20180517-201949.img",
+        "flush": "ftp://ftp-customer.rokid-inc.com:9921/images/amlogic_a113_audio/amlogic_linux_audio_baba_m2_a113_dev/dev/458/aml_upgrade_package-0.2.0_rc5-20180517-201949.img"
+      },
+      "version": "0.2.0_rc5",
+      "datetime": "20180517",
+      "buildId": "201949"
+    }
+  ],
+  "android": []
+}
